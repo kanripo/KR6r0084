@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:40.020676
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:17
 #+TITLE: 華嚴經傳記
 #+PROPERTY: CBETA_ID T51n2073
 #+PROPERTY: ID KR6r0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2073
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0084_T_000-0153a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0084_T_003-0161c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 華嚴經傳記卷第三¶
+華嚴經傳記卷第三¶
 ¶
 京兆崇福寺僧沙門法藏集¶
 
-:PROPERTIES:
-:head: 講解下
-:END:
-¶
+* 講解下¶
 
   
   * 唐并州武德寺釋慧覺¶
@@ -304,16 +300,14 @@
 如圓房朝海令付假名并指姓畢。此假名¶
 姓裏書者。土御門大納言入道顯定卿之¶
 所記錄也。即以彼禪門自筆之點本寫之。¶
-可為無雙之證本也而已。¶
-
+可為無雙之證本也而已。
 建治元年(乙亥)六月一日(末時)於東大寺尊勝院¶
 新彌勒堂。令寫本等奉讀之畢。前權僧正¶
 宗性。聽眾。良曉得業。慶實法師。談義之¶
 後。即於當院家新學問所。為後覽記之。右¶
 筆華嚴宗末葉半僧宗性。年齡七十四。夏¶
 臘六十二。
-<pb:KR6r0084_T_003-0165a>¶
-
+<pb:KR6r0084_T_003-0165a>
 抑此料紙者。去文永三年之曆暮秋九月¶
 之候。後嵯峨天皇所降賜也。不慮之朝恩¶
 面目頓餘身之間。漸漸取出之。以寫如此¶

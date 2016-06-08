@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:39.993551
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:17
 #+TITLE: 華嚴經傳記
 #+PROPERTY: CBETA_ID T51n2073
 #+PROPERTY: ID KR6r0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2073
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0084_T_000-0153a>¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6r0084_T_002-0158a> ¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6r0084_T_002-0158a> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 華嚴經傳記卷第二¶
+華嚴經傳記卷第二¶
 ¶
 京兆崇福寺僧沙門法藏集¶
 
-6講解
-:PROPERTIES:
-:head: 講解第六上
-:END:
-¶
+* 講解第六上¶
 
   
   * 東晉南林釋法業¶
@@ -169,8 +164,7 @@
 寺夏講。雀來在座西南伏聽。終於九旬。又曾¶
 處濟州。亦有一鴨。飛來入聽訖講便去。斯
 <pb:KR6r0084_T_002-0159c>¶
-諸祥感眾矣。自非道洽冥府。何能與此。昔¶
-正講華嚴。輒有一僧加毀。當夜有神。特致¶
+諸祥感眾矣。自非道洽冥府。何能與此。昔正講華嚴。輒有一僧加毀。當夜有神。特致¶
 鞭楚。死而復蘇。因是見聞者。皆深敬。異甞宿¶
 他寺。正逢布薩。有僧昇座。將欲竪義。乃曰。¶
 竪論法相。深會聖言。何勞說戒。僧常聞耳。忽¶
