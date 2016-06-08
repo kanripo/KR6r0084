@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:40.073700
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:17
 #+TITLE: 華嚴經傳記
 #+PROPERTY: CBETA_ID T51n2073
 #+PROPERTY: ID KR6r0084
@@ -21,7 +21,7 @@
   * 書寫第九
   * 雜述第十¶
 
-9書寫
+* 9書寫
 :PROPERTIES:
 :head: 書寫第九
 :END:
@@ -155,7 +155,7 @@
 事。永棄俗緣。入太白終南。專務栖隱。後不知¶
 所終。¶
 
-10雜述
+* 10雜述
 :PROPERTIES:
 :head: 雜述第十
 :END:
